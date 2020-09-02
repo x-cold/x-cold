@@ -2,7 +2,6 @@
 
 #### Hello 👏
 
-> I'm x-cold
-> A frontend engineer
+> I'm x-cold, a frontend engineer in SZ.
 
 🔗 http://blog.lxstart.net/
